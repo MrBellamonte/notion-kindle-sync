@@ -1,0 +1,12 @@
+kindle_cred:
+  email: email
+  password: PW
+notion_cred:
+  database_id: DATABASE_ID
+  token: TOKEN
+
+# define which books to sync
+books_to_sync:
+  - book_id1
+  - book_id2
+  - ...
